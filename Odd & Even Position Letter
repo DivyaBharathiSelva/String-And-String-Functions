@@ -1,0 +1,3 @@
+s=input("Enter a string:")
+print("Even position of characters:",s[1::2])
+print("Odd position of characters:",s[0::2])
